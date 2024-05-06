@@ -31,6 +31,13 @@ Hello, I'm Salim!<br>I'm a passionate software engineer certified Tensorflow Dev
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 
+## 🎓 Actually Learning:
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white) ![Three Fiber](https://img.shields.io/badge/Three_Fiber-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Why:
+To create beautiful websites in 3D and set up environments for reinforcement learning.
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=salim4n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salim4n&theme=dark&hide_border=false)<br/>
