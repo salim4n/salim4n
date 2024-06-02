@@ -32,9 +32,11 @@ Hello, I'm Salim!<br>I'm a passionate software engineer certified Tensorflow Dev
 
 
 ## 🎓 Actually Learning:
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white) ![Three Fiber](https://img.shields.io/badge/Three_Fiber-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white) ![Three Fiber](https://img.shields.io/badge/Three_Fiber-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![ML-Agents](https://img.shields.io/badge/ML--Agents-%2346C8FF.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAXEgAAFxIBZ5/SUgAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAFZSURBVFiF7dY9SwNBEAXg34gJdoJv4BE3gAUSgXKgHdxAe0VkIEiWkEIgT6ByUflFTJEFJWnUHYmiOljO/Yi9s2uOb2c3kZmdu9s7+v5s2z4FYyt8KNQDuYJw8VYM+CXiG7Kp9NzTgN5yrQLGgh3kiAfwhRJS7EfJvKlXQLpT5KhySbw3hPklFnknaLn2qaFAKf5ABegBXmABM1SM4AYXAFLIAeSwObwCtAYxaBJ3AbnGAO3OEGYCxgnjAixxExRi8D8ceTNYDSsKjsQNOAAeMDxzAWeqQhepgBumIHLQyOA7sIrfNGfHEOEAp+AZl4z8LC+gJ5Qfb4shBtbAyXAsSPNm1EMdC4syEvsj0fr1sC7HAc5cLRsmlmWZ5tAylzgkbAY5V5FziBC72IAZeCYxjWMCftZmSQXzgHTUg15wWmGxziA+zNPmK3UAWZgSe4RG5Dl2pjU+I4i6YV3gGkvg2LYx/jvn2AAAAABJRU5ErkJggg==)
+
 ### Why:
 To create beautiful websites in 3D and set up environments for reinforcement learning.
+
 
 
 
@@ -46,17 +48,9 @@ To create beautiful websites in 3D and set up environments for reinforcement lea
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=salim4n&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=salim4n&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=salim4n&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
