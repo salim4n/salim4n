@@ -26,20 +26,6 @@ Hello, I'm Salim!<br>I'm a passionate software engineer certified Tensorflow Dev
 ### Database Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-%23FF4088.svg?style=for-the-badge&logo=Neon&logoColor=white) ![Cosmos DB](https://img.shields.io/badge/Azure%20Cosmos%20DB-002050?style=for-the-badge&logo=azurecosmosdb&logoColor=white) ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
-### Mobile Stack:
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-
-
-## 🎓 Actually Learning:
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white) ![Three Fiber](https://img.shields.io/badge/Three_Fiber-%23000000.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![ML-Agents](https://img.shields.io/badge/ML--Agents-%2346C8FF.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAXEgAAFxIBZ5/SUgAAABl0RVh0Q29tbWVudABDcmVhdGVkIHdpdGggR0lNUFeBDhcAAAFZSURBVFiF7dY9SwNBEAXg34gJdoJv4BE3gAUSgXKgHdxAe0VkIEiWkEIgT6ByUflFTJEFJWnUHYmiOljO/Yi9s2uOb2c3kZmdu9s7+v5s2z4FYyt8KNQDuYJw8VYM+CXiG7Kp9NzTgN5yrQLGgh3kiAfwhRJS7EfJvKlXQLpT5KhySbw3hPklFnknaLn2qaFAKf5ABegBXmABM1SM4AYXAFLIAeSwObwCtAYxaBJ3AbnGAO3OEGYCxgnjAixxExRi8D8ceTNYDSsKjsQNOAAeMDxzAWeqQhepgBumIHLQyOA7sIrfNGfHEOEAp+AZl4z8LC+gJ5Qfb4shBtbAyXAsSPNm1EMdC4syEvsj0fr1sC7HAc5cLRsmlmWZ5tAylzgkbAY5V5FziBC72IAZeCYxjWMCftZmSQXzgHTUg15wWmGxziA+zNPmK3UAWZgSe4RG5Dl2pjU+I4i6YV3gGkvg2LYx/jvn2AAAAABJRU5ErkJggg==)
-
-### Why:
-To create beautiful websites in 3D and set up environments for reinforcement learning.
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=salim4n&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=salim4n&theme=dark&hide_border=false)<br/>
