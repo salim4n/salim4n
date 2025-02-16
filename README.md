@@ -52,9 +52,10 @@ A former military professional turned developer, I’m passionate about creating
 ---
 
 ## 📜 Certifications  
-- **TensorFlow Developer** (Google)  
-- **Azure AI Fundamentals**  
-- **MLOps Specialization** (Duke University)  
+- [**TensorFlow Developer** (Google)](https://www.credential.net/9ed22362-1cf3-4bdb-a372-154644117515#acc.Wr7RMEuV)
+- [**Azure AI Fundamentals** (Microsoft)](https://learn.microsoft.com/fr-fr/users/salimlaimeche-2258/credentials/bf4623aa20169c66?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [**MLOps Specialization** (Duke University)](https://www.coursera.org/account/accomplishments/specialization/BDX5XQEL2F9H)
+
 
 ---
 
