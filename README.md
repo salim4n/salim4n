@@ -1,7 +1,7 @@
 # 👋 Salim - Developer Specialized in Artificial Intelligence  
 
 ## 🌟 About Me  
-- 🌍 **Location**: Troyes, France  
+- 🌍 **Location**: Paris, France  
 - 💼 **Status**: Freelance | Micro-entrepreneur  
 - 📚 **Certifications**: TensorFlow Developer | Azure AI Fundamentals | MLOps  
 
